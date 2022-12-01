@@ -3,8 +3,8 @@
 
 ## Blueprint
 * Blueprint Basics:
- * nodes 
- * pins 
+  * nodes 
+  * pins 
 
 ## Programming basics
 * Programming basics in Unreal
