@@ -8,21 +8,21 @@
 
 ## Programming basics
 * Programming basics in Unreal
- * variables
- * strings
- * references
- * functions
+  * variables
+  * strings
+  * references
+  * functions
 
 ## Unreal basics
 * Unreal basics
-* maps
-* actors
-* components
-* transfroms
-* vectors
+  * maps
+  * actors
+  * components
+  * transfroms
+  * vectors
 
 ## Object Oriented Basics
 * Object Oriented Basics
-* objects/structs
-* classes
-* member functions
+  * objects/structs
+  * classes
+  * member functions
