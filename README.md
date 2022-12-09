@@ -28,6 +28,7 @@
   * components
   * transfroms
   * vectors
+  * using geometry brushes to build a level
 
 ## Object Oriented Basics
 * Object Oriented Basics
